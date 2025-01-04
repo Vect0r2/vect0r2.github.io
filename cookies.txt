@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+shiptest.net	TRUE	/	FALSE	1999999999	mediawiki_session	i3ld99ck80nsqh5s2dbf1b23uur566lm
+
